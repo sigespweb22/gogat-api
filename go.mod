@@ -187,6 +187,7 @@ require (
 	github.com/frankban/quicktest v1.14.6 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
+	github.com/go-chi/chi/v5 v5.1.0
 	github.com/go-fonts/dejavu v0.1.0 // indirect
 	github.com/go-fonts/latin-modern v0.2.0 // indirect
 	github.com/go-fonts/liberation v0.2.0 // indirect

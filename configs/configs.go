@@ -24,7 +24,7 @@ func Initialize(filename string, filepath string, filetype string) {
 	viper.AddConfigPath(filepath)
 	err := viper.ReadInConfig()
 	if err != nil {
-		panic(fmt.Errorf("Error reading config file: %s", err))
+		panic(fmt.Errorf("error reading config file: %s", err))
 	}
 }
 
