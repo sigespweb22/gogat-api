@@ -5,6 +5,8 @@ package main
 // "github.com/sigespweb22/gogate-api/internal/server"
 // "github.com/go-chi/chi/v5/middleware"
 
+import "fmt"
+
 func main() {
-	// server := server.NewServer()
+	fmt.Println("Api Gateway")
 }
